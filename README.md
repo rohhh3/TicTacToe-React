@@ -1,2 +1,2 @@
 # Tic-Tac-Toe in React
-Give it a try here:
+Just as in the title
